@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const fs = require("node:fs");
 const path = require("node:path");
 const { Partials, Client, Collection, GatewayIntentBits, EmbedBuilder } = require("discord.js");

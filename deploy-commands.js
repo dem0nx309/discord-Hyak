@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const { REST, Routes } = require("discord.js");
 const { token , applicationId } = require("./config.json");
 const fs = require("node:fs");

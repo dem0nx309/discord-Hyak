@@ -1,5 +1,4 @@
 const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
-const fetch = require("node-fetch");
 const dayjs = require("dayjs");
 require("dayjs/locale/fr");
 

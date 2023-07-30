@@ -3,7 +3,6 @@ const path = require("node:path");
 const { Partials, Client, Collection, GatewayIntentBits, EmbedBuilder } = require("discord.js");
 const { token, channelEdit } = require("./config.json");
 const cron = require("node-cron");
-const fetch = require("node-fetch");
 
 const client = new Client({
     intents: [
